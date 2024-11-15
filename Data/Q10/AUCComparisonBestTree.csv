@@ -1,0 +1,7 @@
+"Classifier","AUC"
+"Decision Tree",0.836508224479923
+"Naïve Bayes",0.743136187711661
+"Bagging",0.822266569908079
+"Boosting",0.791747298822771
+"Random Forest",0.838513949363006
+"Best Tree",0.832012981777132
